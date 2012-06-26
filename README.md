@@ -11,5 +11,3 @@ Install Ioke: http://ioke.org/download.html
 `$ cd path/to/gameoflife/`
 
 `$ ioke main.ik`
-
-Press return to show the next generation.
